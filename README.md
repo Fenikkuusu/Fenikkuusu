@@ -3,4 +3,5 @@
 - I’m looking to collaborate on anything in my skillset
 - 📫 Shoot me an email - contact.fenikkuusu@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=html,scss,js,node,java,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,scss,js,nodejs,java,python&theme=dark)](https://skillicons.dev)
+[![Software I use](https://skillicons.dev/icons?ivscode,intellij&theme=dark)](https://skillicons.dev)
