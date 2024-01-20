@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Fenikkuusu
-- I’m currently learning Assembly
-- I’m looking to collaborate on anything in my skillset
-- 📫 Shoot me an email - contact@fenikkuusu.com
+- Small team of developers all around the globe
+- Primarily working with Java and web technologies
+- 📫 Shoot us an email - contact@fenikkuusu.com
 
 [fenikkuusu.com](https://www.fenikkuusu.com)
 
